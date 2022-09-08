@@ -1,5 +1,3 @@
-functools
-unicodedata
 streamlit
 pandas
 numpy
